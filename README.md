@@ -18,4 +18,8 @@ Step 3: Start the server (development mode)
 ```bash
 npm run dev
 ```
-Step 4: Hit the API endpoints as shown in result folder screenshot using postman
+Step 4: Hit the API endpoints as shown in result folder screenshot using postman:
+
+```bash
+http://localhost:5000/
+```
